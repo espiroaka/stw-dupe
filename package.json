@@ -1,0 +1,25 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "p": "pm2 logs",
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./javascript/index.js"
+  },
+  "keywords": [],
+  "author": "espiroaka",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.6.5",
+    "node": "^21.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
