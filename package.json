@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "p": "pm2 logs",
-    "tsc": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./javascript/index.js"
   },
   "keywords": [],
   "author": "espiroaka",
-  "license": "ISC",
+  "license": "Apache",
   "dependencies": {
     "@types/axios": "^0.14.0",
     "axios": "^1.6.5",
