@@ -1,5 +1,5 @@
 {
-  "name": "ts",
+  "name": "stw_dupe",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,9 @@
   "author": "espiroaka",
   "license": "Apache",
   "dependencies": {
-    "@types/axios": "^0.14.0",
     "axios": "^1.6.5",
     "node": "^21.2.0",
     "readline-sync": "^1.4.10"
   },
-  "description": "",
-  "devDependencies": {
-    "@types/node": "^20.11.0",
-    "@types/readline-sync": "^1.4.8"
-  }
+  "description": ""
 }
