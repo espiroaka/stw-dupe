@@ -18,7 +18,7 @@ Una vez hayas transferido un objeto de la mochila al almacen, tu amigo deberá c
 Si todo ha salido bien, los objetos deberían haberse duplicado.
 
 ---
-PD: Uso del Código 
+PD: Uso del Código
 Si decides utilizar este código en un proyecto público, te agradecería mucho que incluyas un reconocimiento con mi nombre de Discord: @espiroaka
 
 ¡Gracias por valorar el trabajo de los desarrolladores! Si tienes alguna pregunta o comentario, no dudes en contactarme directamente en Discord.
