@@ -1,6 +1,10 @@
 # STW-dupe
 El nuevo método para duplicar objetos en Salvar el Mundo (Fortnite).
 
+# Requisitos
+1. Tener instalado [Node.js](https://nodejs.org)
+2. Instalar las librerías (Ejecutando `npm install` en la consola)
+
 # Paso 1
 Ejecuta el archivo `index.js` e introduce un [auth code](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/authorization_code.md) válido por la consola.
 *(Esto solo es necesario hacerlo la primera vez)*
