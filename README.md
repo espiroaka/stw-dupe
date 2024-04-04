@@ -1,5 +1,6 @@
-# STW-dupe
-El nuevo método para duplicar objetos en Salvar el Mundo (Fortnite).
+# Aviso
+Este metodo esta parcheado y ya no funciona
+
 
 # Requisitos
 1. Tener instalado [Node.js](https://nodejs.org)
